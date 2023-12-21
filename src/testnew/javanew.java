@@ -8,6 +8,7 @@ public class javanew {
 	            double b = 2;    
 	            System.out.println(Math.pow(a, b));
 	            System.out.println(a);
+	            System.out.println(b);
 	        }    
 	       
 
