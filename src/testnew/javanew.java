@@ -6,7 +6,8 @@ public class javanew {
 		// TODO Auto-generated method stub
 	            double a = 5;    
 	            double b = 2;    
-	            System.out.println(Math.pow(a, b));  // return a^b i.e. 5^2  
+	            System.out.println(Math.pow(a, b));
+	            System.out.println(a);
 	        }    
 	       
 
