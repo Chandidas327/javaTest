@@ -12,7 +12,7 @@ public class sumofNumber {
 				  System.out.println(sum);
 				   
 				}
-		System.out.println(sum);
+		System.out.println("Sum of first 10 number is "+sum);
 				
 		// TODO Auto-generated method stub
 
