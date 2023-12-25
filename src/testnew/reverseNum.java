@@ -3,18 +3,14 @@ package testnew;
 public class reverseNum {
 
 	public static void main(String[] args) {
-		int a = 123;
-		for(a;i>)
-		
-		
-		
-		int b = a % 10;
-		a =a/10
-		int c =b % 10;
-		int d = c%10;
-		System.out.println(b);
-		System.out.println(c);
-		System.out.println(d);
+		int n = 1267783;
+		int rev = 0;
+		while(n>0)
+		{
+			rev = n%10;
+			System.out.print(rev);
+			n = n/10;
+		}
 		
 	}
 
